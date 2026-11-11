@@ -1,1 +1,5 @@
-
+Custome Smoothie Order Form/
+├── .streamlit/config.toml
+├── pyproject.toml      ← your equivalent of environment.yml
+├── snowflake.yml
+└── streamlit_app.py
